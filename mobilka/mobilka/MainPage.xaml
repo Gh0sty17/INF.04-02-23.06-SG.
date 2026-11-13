@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mobilka.MainPage"
+            BackgroundColor="White">
+
+    <VerticalStackLayout Margin="20" Spacing="15" VerticalOptions="Center">
+
+        <Label Text="Właściwości czcionki" 
+               FontSize="32" 
+               FontAttributes="Bold" 
+               TextColor="White" 
+               HorizontalTextAlignment="Center"
+               BackgroundColor="#558B2F"/>
+
+        <Label x:Name="lblRozmiarOpis" 
+               Text="Rozmiar: " 
+               FontSize="20" 
+               TextColor="Black"/>
+
+        <Slider x:Name="sliderRozmiar" 
+                Minimum="0" 
+                Maximum="40" 
+                Value="20" 
+                ValueChanged="SliderRozmiar_ValueChanged"
+                HorizontalOptions="Fill"
+                MinimumTrackColor="Blue"
+                MaximumTrackColor="LightGrey"
+                ThumbColor="Blue"/>
+
+        <Label x:Name="lblCytat" 
+               Text="Dzień dobry" 
+               FontSize="20" 
+               TextColor="Black" 
+               HorizontalTextAlignment="Center"/>
+
+        <Button Text=">>" 
+                FontAttributes="Bold" 
+                TextColor="White" 
+                BackgroundColor="#558B2F" 
+                HorizontalOptions="Center" 
+                WidthRequest="120"
+                Clicked="ButtonZmienTekst_Clicked"/>
+
+    </VerticalStackLayout>
+</ContentPage>

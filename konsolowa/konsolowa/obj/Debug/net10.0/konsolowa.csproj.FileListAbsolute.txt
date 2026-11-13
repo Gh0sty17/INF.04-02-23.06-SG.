@@ -1,0 +1,15 @@
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\bin\Debug\net10.0\konsolowa.exe
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\bin\Debug\net10.0\konsolowa.deps.json
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\bin\Debug\net10.0\konsolowa.runtimeconfig.json
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\bin\Debug\net10.0\konsolowa.dll
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\bin\Debug\net10.0\konsolowa.pdb
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\konsolowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\konsolowa.AssemblyInfoInputs.cache
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\konsolowa.AssemblyInfo.cs
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\konsolowa.csproj.CoreCompileInputs.cache
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\konsolowa.dll
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\refint\konsolowa.dll
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\konsolowa.pdb
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\konsolowa.genruntimeconfig.cache
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\ref\konsolowa.dll
+C:\Users\julka\Desktop\INF.04-02-23.06-SG\konsolowa\konsolowa\obj\Debug\net10.0\konsolowa.csproj.Up2Date

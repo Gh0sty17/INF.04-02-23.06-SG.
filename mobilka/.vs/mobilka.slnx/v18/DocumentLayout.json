@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julka\\Desktop\\INF.04-02-23.06-SG\\mobilka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A3959-AE46-4939-8925-EEF1CEE35468}|mobilka\\mobilka.csproj|c:\\users\\julka\\desktop\\inf.04-02-23.06-sg\\mobilka\\mobilka\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C82A3959-AE46-4939-8925-EEF1CEE35468}|mobilka\\mobilka.csproj|solutionrelative:mobilka\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A3959-AE46-4939-8925-EEF1CEE35468}|mobilka\\mobilka.csproj|c:\\users\\julka\\desktop\\inf.04-02-23.06-sg\\mobilka\\mobilka\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A3959-AE46-4939-8925-EEF1CEE35468}|mobilka\\mobilka.csproj|solutionrelative:mobilka\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\julka\\Desktop\\INF.04-02-23.06-SG\\mobilka\\mobilka\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "mobilka\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\julka\\Desktop\\INF.04-02-23.06-SG\\mobilka\\mobilka\\MainPage.xaml.cs",
+              "RelativeToolTip": "mobilka\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:08:47.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\julka\\Desktop\\INF.04-02-23.06-SG\\mobilka\\mobilka\\MainPage.xaml",
+              "RelativeDocumentMoniker": "mobilka\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\julka\\Desktop\\INF.04-02-23.06-SG\\mobilka\\mobilka\\MainPage.xaml",
+              "RelativeToolTip": "mobilka\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-13T16:06:08.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
